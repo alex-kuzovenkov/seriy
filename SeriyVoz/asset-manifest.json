@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Seriy/static/css/main.6c288863.chunk.css",
+    "main.js": "/Seriy/static/js/main.088f585e.chunk.js",
+    "main.js.map": "/Seriy/static/js/main.088f585e.chunk.js.map",
+    "runtime-main.js": "/Seriy/static/js/runtime-main.f8d5c842.js",
+    "runtime-main.js.map": "/Seriy/static/js/runtime-main.f8d5c842.js.map",
+    "static/js/2.ea32ffd4.chunk.js": "/Seriy/static/js/2.ea32ffd4.chunk.js",
+    "static/js/2.ea32ffd4.chunk.js.map": "/Seriy/static/js/2.ea32ffd4.chunk.js.map",
+    "index.html": "/Seriy/index.html",
+    "precache-manifest.63404f8e89bcdf0d943d10167ae8fd34.js": "/Seriy/precache-manifest.63404f8e89bcdf0d943d10167ae8fd34.js",
+    "service-worker.js": "/Seriy/service-worker.js",
+    "static/css/main.6c288863.chunk.css.map": "/Seriy/static/css/main.6c288863.chunk.css.map",
+    "static/js/2.ea32ffd4.chunk.js.LICENSE.txt": "/Seriy/static/js/2.ea32ffd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d5c842.js",
+    "static/js/2.ea32ffd4.chunk.js",
+    "static/css/main.6c288863.chunk.css",
+    "static/js/main.088f585e.chunk.js"
+  ]
+}
